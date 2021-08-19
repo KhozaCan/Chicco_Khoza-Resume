@@ -59,7 +59,7 @@ nav ul li a{
 }
 
 nav ul li a:hover {
-background-color: #2adabc;
+background-color: #87A8A4;
 color: #ffffff;
 box-shadow: 5px 10px 30px rgba(64, 198, 196, 0.3);
 transition: all ease 0.2s;
