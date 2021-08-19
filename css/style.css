@@ -181,7 +181,7 @@ transition: all ease 0.2s;
 	flex-direction: column;
 }
 .projects-heading span{
-	color:#36b7b5;
+	color: whitesmoke;
 	font-weight: 500;
 	text-transform: uppercase;
 	letter-spacing: 2px;
