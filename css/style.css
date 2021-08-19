@@ -3,6 +3,7 @@ body {
 	padding: 0px;
 	font-family: poppins;
 	scroll-behavior: smooth;
+	background-color: #87A8A4;
 }
 
 * {
@@ -85,6 +86,7 @@ transition: all ease 0.2s;
 }
 .main-text{
 	width:500px;
+	color: azure;
 }
 .main-text h1{
 	font-size: 3.5rem;
@@ -93,7 +95,7 @@ transition: all ease 0.2s;
 	line-height: 60px;
 }
 .main-text p{
-	color:#747474;
+	color: whitesmoke;
 }
 
 
@@ -103,6 +105,7 @@ transition: all ease 0.2s;
 	align-items: center;
 	width:90%;
 	margin:auto auto 50px auto;
+	background-color: azure;
 }
 .skill-text{
 	width:400px;
